@@ -1,0 +1,3 @@
+﻿  Highscore.cpp
+c:\users\administrador\documents\visual studio 2015\projects\highscore\highscore\highscore.cpp(4): warning C4930: 'HiScore::Score s(void)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+  HighScore.vcxproj -> c:\users\administrador\documents\visual studio 2015\Projects\HighScore\Debug\HighScore.lib
